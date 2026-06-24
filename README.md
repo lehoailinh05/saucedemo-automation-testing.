@@ -31,7 +31,7 @@ bao gồm **Manual Testing**, **Automation Testing (POM)** và **API Testing**.
 - 📄 [Test Cases (Excel)](./test-plan/saucedemo_manual_testcases_v2.xlsx)
 - 📄 [Test Plan](./test-plan/TestPlan.md)
 - 📄 [Test Summary Report](./test-plan/TestSummaryReport.md)
-- 🐞 [Jira Bug Report (PDF)](./jira-bug-report.pdf)
+- 🐞 [Jira Bug Report (PDF)](./jira-bug-report..pdf)
 
 ---
 
